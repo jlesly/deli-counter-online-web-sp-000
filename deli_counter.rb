@@ -1,10 +1,8 @@
 # Write your code here.
 
-def current_line(counter)
-  if counter == 0 
-  return "The line is currently empty."
-end 
+katz_deli = []
 
-
-def take_a_number
-  katz_deli
+def katz_deli
+  if 
+    puts "The line is currently empty."
+  elsif 
